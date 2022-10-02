@@ -2,7 +2,7 @@
 A Simple HTML, CSS, and JavaScript based calculator made to carry out simple calculations
 
 # Design
-![alt text](https://github.com/Rahul171201/Basic-Calculator/blob/main/CALCULATOR.png?raw=true)  
+![s1](https://user-images.githubusercontent.com/70642284/193469360-8d34f216-daef-49cc-b4d8-4dc63979f6a0.jpeg)
 
 # Implementation
 The User has to first enter the text in the "Enter" area. The user can input any valid expression using the operators and operands provided.  
